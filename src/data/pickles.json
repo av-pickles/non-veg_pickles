@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Chicken Pickle",
+    "price": 500,
+    "quantity": "500gm",
+    "expiry": "3 months",
+    "image": "/images/chicken.jfif"
+  },
+  {
+    "name": "Korameenu Fish Pickle",
+    "price": 250,
+    "quantity": "250gm",
+    "expiry": "6 months",
+    "image": "/images/korameenu.jfif"
+  },
+  {
+    "name": "Mutton Pickle",
+    "price": 300,
+    "quantity": "300gm",
+    "expiry": "5 months",
+    "image": "/images/mutton.jfif"
+  },
+  {
+    "name": "Prawns Pickle",
+    "price": 400,
+    "quantity": "400gm",
+    "expiry": "4 months",
+    "image": "/images/prawns.jfif"
+  },
+  {
+    "name": "Seelavathi Pickle",
+    "price": 600,
+    "quantity": "500gm",
+    "expiry": "3 months",
+    "image": "/images/seelavathi.jfif"
+  }
+]
