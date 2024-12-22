@@ -1,5 +1,4 @@
 import pickles from "../data/pickles.json";
-
 export function Pickles() {
   return (
     <div className="container-fluid d-flex flex-wrap">
@@ -10,7 +9,7 @@ export function Pickles() {
         >
           <div className="card-img-top">
             <img
-              src={pickle.image}
+              src={`${process.env.PUBLIC_URL}${pickle.image}`}
               alt={pickle.name}
               style={{ width: "100%", height: "250px", objectFit: "cover" }}
             ></img>
