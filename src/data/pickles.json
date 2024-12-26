@@ -1,37 +1,58 @@
 [
   {
     "name": "Chicken Pickle",
-    "price": 500,
+    "oldprice": 500,
+    "price": 399,
     "quantity": "500gm",
     "expiry": "3 months",
     "image": "/images/chicken.png"
   },
   {
     "name": "Korameenu Fish Pickle",
-    "price": 250,
-    "quantity": "250gm",
-    "expiry": "6 months",
+    "oldprice": 750,
+    "price": 599,
+    "quantity": "500gm",
+    "expiry": "2 months",
     "image": "/images/korameenu.png"
   },
   {
     "name": "Mutton Pickle",
-    "price": 300,
-    "quantity": "300gm",
-    "expiry": "5 months",
+    "oldprice": 800,
+    "price": 749,
+    "quantity": "500gm",
+    "expiry": "3 months",
     "image": "/images/mutton.png"
   },
   {
     "name": "Prawns Pickle",
-    "price": 400,
-    "quantity": "400gm",
-    "expiry": "4 months",
+    "oldprice": 800,
+    "price": 599,
+    "quantity": "500gm",
+    "expiry": "3 months",
     "image": "/images/prawns.png"
   },
   {
-    "name": "Seelavathi Pickle",
-    "price": 600,
+    "name": "Seelavathi Fish Pickle",
+    "oldprice": 550,
+    "price": 399,
     "quantity": "500gm",
     "expiry": "3 months",
     "image": "/images/seelavathi.png"
+  },
+  {
+    "name": "Gongura Prawn Pickle",
+    "oldprice": 780,
+    "price": 649,
+    "quantity": "500gm",
+    "expiry": "3 months",
+    "image": "/images/gonguraprawn.png"
+  },
+  {
+    "name": "Gongura Boti Pickle",
+    "oldprice": 850,
+    "price": 699,
+    "quantity": "500gm",
+    "expiry": "3 months",
+    "image": "/images/gonguraboti.png"
   }
 ]

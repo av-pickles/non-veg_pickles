@@ -11,7 +11,7 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1"
   },
-  "homepage": "/",
+  "homepage": "https://NagarajuKuna.github.io/non-veg_pickles",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
