@@ -7,11 +7,13 @@
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "cra-template": "1.2.0",
+    "qrcode.react": "^4.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.1",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://NagarajuKuna.github.io/pickles-av",
+  "homepage": "https://av-pickles.github.io/non-veg_pickles",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
