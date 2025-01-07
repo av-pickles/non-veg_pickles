@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/non-veg_pickles/static/css/main.733d3483.css",
+    "main.js": "/non-veg_pickles/static/js/main.057c50bf.js",
+    "static/media/bootstrap-icons.woff?": "/non-veg_pickles/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/non-veg_pickles/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/non-veg_pickles/index.html",
+    "main.733d3483.css.map": "/non-veg_pickles/static/css/main.733d3483.css.map",
+    "main.057c50bf.js.map": "/non-veg_pickles/static/js/main.057c50bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733d3483.css",
+    "static/js/main.057c50bf.js"
+  ]
+}
